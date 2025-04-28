@@ -1,0 +1,11 @@
+transformers
+torch
+scikit-learn
+pandas
+yt-dlp
+youtube-comment-downloader
+git+https://github.com/openai/whisper.git
+ffmpeg-python
+telethon
+instaloader
+tqdm
